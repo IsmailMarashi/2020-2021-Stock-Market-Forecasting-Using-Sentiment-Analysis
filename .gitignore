@@ -12,3 +12,4 @@ cat333/saved_model.pb
 cat22/variables/variables.index
 cat22/variables/variables.data-00000-of-00001
 cat22/saved_model.pb
+*.data-00000-of-00001
