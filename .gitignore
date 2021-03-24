@@ -1,25 +1,10 @@
-Binary
-cache
-project
-*.pb
-*.pb
-hinge/variables/variables.index
-hinge/variables/variables.data-00000-of-00001
-hinge/saved_model.pb
-cat333/variables/variables.index
-cat333/variables/variables.data-00000-of-00001
-cat333/saved_model.pb
-cat22/variables/variables.index
-cat22/variables/variables.data-00000-of-00001
-cat22/saved_model.pb
-*.data-00000-of-00001
-cat22/saved_model.pb
-cat22/variables/variables.data-00000-of-00001
-cat22/variables/variables.index
-cat333/saved_model.pb
-cat333/variables/variables.data-00000-of-00001
-cat333/variables/variables.index
-hinge/saved_model.pb
-hinge/variables/variables.data-00000-of-00001
-hinge/variables/variables.index
-MSFT
+# ignore these
+*
+# except foo
+!yFinance.ipynb
+!StoreTweetsBackend.ipynb
+!StoreTweets.ipynb
+!stockFunctionsbackup.ipynb
+!StockForecastingComponent-Copy2.ipynb
+!StockForecastingComponent.ipynb
+!SentimentComponent.ipynb
